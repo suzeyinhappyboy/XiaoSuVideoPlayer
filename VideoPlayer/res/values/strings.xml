@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content">content</string>
+    <string name="title">title</string>
+    <string name="time">time</string>
+    <string name="imageviewconscrip">imageview</string>
+    
+    <string name="version_name">1.0</string>
+    <string name="title_file">本地视频</string>
+    <string name="title_online">在线视频</string>
+    <string name="file_oper">文件操作</string>
+    <string name="file_rename">重命名</string>
+    <string name="file_rename_failed">重命名失败</string>
+    <string name="file_rename_exists">文件已存在</string>
+    <string name="file_delete">删除</string>
+    <string name="file_delete_confirm">确定删除 (%s) ？</string>
+    <string name="video_layout_loading">正在缓冲…</string>
+    <string name="vitamio_theme_app_name">VPlayer codec</string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+		this device.</string>
+    <string name="VideoView_error_text_unknown">对不起,这个视频不能播放。</string>
+    <string name="VideoView_error_button">OK</string>
+    
+    <string name="local_video">本地视频</string>
+    <string name="twitter">Twitter</string>
+    <string name="google">webvideo</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="wordpress">Wordpress</string>
+    <string name="myspace">Myspace</string>
+    <string name="start_app">Starting application:</string>
+    
+      <string name="share_btn_click_ok">OK</string>
+    <string name="share_inmain_infor">To share Rover 3.0 photos and videos, exit the app, go to Settings and access a Wi-Fi network other than Rover 3.0.  Open the Rover 3.0 app and select Share.</string>
+    <string name="share_file_deleted">Your file has been deleted, restart the software to update</string>
+    <string name="share_picfile_more">Picture number more than 200, showing only the first 200 thumbnail</string>
+    <string name="share_videofile_more">Video number more than 100, will only display the first 100 thumbnail</string>
+    <string name="share_photos">Photos</string>
+    <string name="share_videos">Videos</string>
+    <string name="share_delete">Delete</string>
+    <string name="share_share">Share</string>
+    <string name="share_delete_photo">DELETE PHOTO</string>
+    <string name="share_delete_query">OK</string>
+    <string name="share_delete_cancle">CANCEL</string>
+    <string name="share_delete_video">DELETE VIDEO</string>
+    <string name="share_net_error_title">Connection Error</string>
+    <string name="share_net_error_content">Please check your Wi-Fi connection.</string>
+    <string name="share_net_error_done">Done</string>
+    <string name="share_prev_delete">Delete</string>
+    <string name="share_prev_share">Share</string>
+    <string name="share_prev_local">X of X</string>
+    <string name="refresh_release">Pull to refresh</string>
+    <string name="last_update">Last updated</string>
+    <string name="share_file_delete_restart">Your file has been deleted, restart the software to update</string>
+    <string name="openvideo1">Open Video1</string>
+
+</resources>
